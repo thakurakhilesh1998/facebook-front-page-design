@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header
+{
+    background: linear-gradient(to bottom,#4a679f,#3c5a98,#3b5999);
+    padding-left: 10% !important;
+    box-sizing: border-box;
+    padding-right: 10% !important;
+}
+.login
+{
+    margin: 0px !important;
+    padding: 0px !important;
+    margin-left: 8px !important;
+    margin-right: 8px;
+}
+.logo h1
+{
+    color: white;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:40px;
+    font-weight:600;
+    line-height:18.76px;
+    
+}
+.label
+{
+color: white;
+}
+.input-text
+{
+    width: auto;
+    height: 20px !important;
+    border-radius: 0px !important;
+}
+.button1
+{
+    background-color: #3b5999 !important;
+    color: white !important;
+    box-sizing: border-box;
+    font-size: 8px;
+    margin: auto auto;
+    display: block;
+    border: 0.5px solid black !important; 
+}
+
+.tagline
+{
+   color:#0e385f;
+   font-size: 20px;
+   font-family:Helvetica, Arial, sans-serif;
+   line-height:29px;
+   font-weight: 700;
+   text-align:start;   
+}
+.fb-title
+{
+    font-size:36px;
+    color:#333333;
+    font-family:Helvetica, Arial, sans-serif;
+    line-height:48.24px;
+    font-weight: 600;
+}
+.fb-second
+{ 
+  font-size: 19px;
+  color:#1d2129;
+  font-weight: 400;
+  font-family:Helvetica, Arial, sans-serif;
+}
+.option
+{   margin-left: 14px;
+    padding: 0px!important;
+}
+.terms
+{
+    color:#777777;
+    font-size:11px;
+    font-family:Helvetica, Arial, sans-serif;
+    font-weight:400;
+}
+.buisness
+{
+    color:#666666;
+    font-size:13px;
+    font-family:Helvetica, Arial, sans-serif;
+    line-height:17.42px;
+}
+.text
+{
+    color:#90949c;
+    font-size:16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-family:Helvetica, Arial, sans-serif;
+    line-height:21.44px;
+    font-weight:700;
+}
